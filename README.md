@@ -19,7 +19,9 @@ The project achieved an accuracy of 0.81 with the linearSVC classifier. Notably,
 Make sure you have the following dependencies installed before running the code:
 
 - Python 3.x
-- Libraries: `numpy`, `pandas`, `csv`, `contractions`, `nltk`, `sklearn`, `seaborn`, `wordcloud`, `matplotlib`
+- Libraries: `numpy`, `pandas`, `csv`, `nltk`, `sklearn`, `seaborn`, `wordcloud`, `matplotlib`
 
 You can install these dependencies using pip:
+```bash
   pip install numpy pandas nltk scikit-learn seaborn wordcloud matplotlib
+```
